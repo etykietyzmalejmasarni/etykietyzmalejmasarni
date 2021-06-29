@@ -137,7 +137,7 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>KIEŁBASA WIEPRZOWA PARZONA</Text>
+                <Text>KIEŁBASA WIEPRZOWA WĘDZONA</Text>
                 <FontInfo>
                   <FontName>Segoe UI</FontName>
                   <FontSize>7.8</FontSize>
@@ -154,7 +154,7 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>HOMOGENIZOWANA</Text>
+                <Text>PARZONA HOMOGENIZOWANA</Text>
                 <FontInfo>
                   <FontName>Segoe UI</FontName>
                   <FontSize>7.8</FontSize>
@@ -240,7 +240,7 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>Składniki: mięso wieprzowe (100%), woda, sól, czosnek, </Text>
+                <Text>Składniki: mięso wieprzowe (90%), woda, sól, </Text>
                 <FontInfo>
                   <FontName>Segoe UI</FontName>
                   <FontSize>4.9</FontSize>
@@ -292,6 +292,40 @@
             <LineTextSpan>
               <TextSpan>
                 <Text />
+                <FontInfo>
+                  <FontName>Segoe UI</FontName>
+                  <FontSize>4.9</FontSize>
+                  <IsBold>False</IsBold>
+                  <IsItalic>False</IsItalic>
+                  <IsUnderline>False</IsUnderline>
+                  <FontBrush>
+                    <SolidColorBrush>
+                      <Color A="1" R="0" G="0" B="0"></Color>
+                    </SolidColorBrush>
+                  </FontBrush>
+                </FontInfo>
+              </TextSpan>
+            </LineTextSpan>
+            <LineTextSpan>
+              <TextSpan>
+                <Text>Produkt może zawierać soję, gorczycę, glutem, seler, </Text>
+                <FontInfo>
+                  <FontName>Segoe UI</FontName>
+                  <FontSize>4.9</FontSize>
+                  <IsBold>False</IsBold>
+                  <IsItalic>False</IsItalic>
+                  <IsUnderline>False</IsUnderline>
+                  <FontBrush>
+                    <SolidColorBrush>
+                      <Color A="1" R="0" G="0" B="0"></Color>
+                    </SolidColorBrush>
+                  </FontBrush>
+                </FontInfo>
+              </TextSpan>
+            </LineTextSpan>
+            <LineTextSpan>
+              <TextSpan>
+                <Text>laktozę (z mleka)</Text>
                 <FontInfo>
                   <FontName>Segoe UI</FontName>
                   <FontSize>4.9</FontSize>
